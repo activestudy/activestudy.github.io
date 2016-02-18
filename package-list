@@ -1,0 +1,12 @@
+com.activestudy.Utility
+com.activestudy.Utility.Define
+com.activestudy.Utility.db
+com.activestudy.Utility.db.oracle
+com.activestudy.Utility.file
+com.activestudy.Utility.file.watchservice
+com.activestudy.pattern.behavioral.command
+com.activestudy.pattern.behavioral.dispatcher
+com.activestudy.pattern.entity.message
+com.activestudy.pattern.entity.request
+com.activestudy.pattern.entity.response
+com.activestudy.pattern.entity.result
